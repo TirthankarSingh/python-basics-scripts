@@ -1,0 +1,60 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache
+.pytest_cache/
+.cache/
+
+# Logs
+*.log
+
+# IDE / Editor settings
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment variable files
+*.env
+.env.*
+
+# MyPy
+.mypy_cache/
+
+# Pyright
+typings/
+
+# Ruff, Black, etc.
+ruff_cache/
