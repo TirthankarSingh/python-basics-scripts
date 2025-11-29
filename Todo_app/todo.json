@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "task": "Learn Python",
+        "status": "todo"
+    },
+    {
+        "id": 2,
+        "task": "Learn Python and Devops",
+        "status": "todo"
+    },
+    {
+        "id": 3,
+        "task": "learn Docker",
+        "status": "todo"
+    },
+    {
+        "id": 4,
+        "task": "hello",
+        "status": "todo"
+    }
+]
